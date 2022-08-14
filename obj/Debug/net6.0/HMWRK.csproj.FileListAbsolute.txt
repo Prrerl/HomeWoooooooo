@@ -1,0 +1,15 @@
+D:\GITREPOSITORI\GeekBrains\HMWRK\bin\Debug\net6.0\HMWRK.exe
+D:\GITREPOSITORI\GeekBrains\HMWRK\bin\Debug\net6.0\HMWRK.deps.json
+D:\GITREPOSITORI\GeekBrains\HMWRK\bin\Debug\net6.0\HMWRK.runtimeconfig.json
+D:\GITREPOSITORI\GeekBrains\HMWRK\bin\Debug\net6.0\HMWRK.dll
+D:\GITREPOSITORI\GeekBrains\HMWRK\bin\Debug\net6.0\HMWRK.pdb
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\HMWRK.csproj.AssemblyReference.cache
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\HMWRK.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\HMWRK.AssemblyInfoInputs.cache
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\HMWRK.AssemblyInfo.cs
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\HMWRK.csproj.CoreCompileInputs.cache
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\HMWRK.dll
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\refint\HMWRK.dll
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\HMWRK.pdb
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\HMWRK.genruntimeconfig.cache
+D:\GITREPOSITORI\GeekBrains\HMWRK\obj\Debug\net6.0\ref\HMWRK.dll
